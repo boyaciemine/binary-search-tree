@@ -2,16 +2,25 @@
 proje3
 [7,5,1,8,3,6,0,9,4,2] binary search tree aşamaları:
 root 7 olarak seçilmiştir.
-                                                            [Root]
-                                [7]
+                                                           
+                                                            
+                                 7
+                                
                                 / \
-                              [5] [8]
-                               /\   \
-                              / \    \
-                            [1] [6]  [9]
+                                
+                              5     8
+                              
+                              /\      \
+                             /  \       \
+                              
+                            1     6       9
+                            
                             /     \
-                          [0]     [3]
-                                  / \
-                                [2] [4]
-                                 
+                            
+                          0          3
+                          
+                                    /  \
+                                  
+                                  2        4
+                                  
 # www.patika.dev
